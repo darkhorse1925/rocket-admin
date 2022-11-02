@@ -58,7 +58,7 @@ const ButtonWrapper = styled.div`
 `
 
 /*start*/
-const FirstStep = () => {
+const FinalStep = () => {
 	const data = {
     "name":"Cup Cake",
     "budget":2700,
@@ -107,4 +107,4 @@ const FirstStep = () => {
 		</div>
 	)
 }
-export default FirstStep
+export default FinalStep 

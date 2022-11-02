@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e603d7d1.css",
+    "main.js": "/static/js/main.6c4ac89d.js",
+    "static/media/cake": "/static/media/cake.591732be22164c3e3b2c",
+    "static/media/Translate.svg": "/static/media/Translate.f2358071eb94d711eb31b873cf923f7f.svg",
+    "static/media/profile-2user.svg": "/static/media/profile-2user.dbd56d99deb672db83d220eedcde205c.svg",
+    "static/media/bag.svg": "/static/media/bag.b029e9bd59fb90f32d2866c832aaa070.svg",
+    "static/media/Leads.svg": "/static/media/Leads.221dd26f9f9aee5941c497e4be632424.svg",
+    "static/media/gift.svg": "/static/media/gift.7a804b46b58ec9e2138269a683821aae.svg",
+    "static/media/house.svg": "/static/media/house.444949b21810f32e05a68a9952124cff.svg",
+    "static/media/volume-high.svg": "/static/media/volume-high.81697cfbd36f12b4961d777021e1fa05.svg",
+    "static/media/Catalogue.svg": "/static/media/Catalogue.1d0b9ef895c361b83966244dd0635388.svg",
+    "static/media/google.svg": "/static/media/google.6f2f6a2fc3a8942af6e5d6b563840b88.svg",
+    "static/media/bell.svg": "/static/media/bell.1526e58cf73b445d0967c30be2575160.svg",
+    "static/media/trash.svg": "/static/media/trash.0f901c984cd8aad09cefdf48f4019cd6.svg",
+    "static/media/yt.svg": "/static/media/yt.8b58c1a247087c7958ce4c6fd884eced.svg",
+    "static/media/edit-2.svg": "/static/media/edit-2.37c4fbc9225944d7aa440cf3bc134753.svg",
+    "static/media/Customers.svg": "/static/media/Customers.64b5b98aeb159b971aae7e159e004715.svg",
+    "static/media/Phone.svg": "/static/media/Phone.8a195c8479a324941930ac9c1ecc68a3.svg",
+    "static/media/fb.svg": "/static/media/fb.ccbe29cacfca51718612c2f5e7972117.svg",
+    "static/media/increase_followers.svg": "/static/media/increase_followers.8dcd1e9c48bb4153b6abb425901aba2e.svg",
+    "static/media/App_install.svg": "/static/media/App_install.e23ea713a5b48a92b7125a1c2667efc6.svg",
+    "index.html": "/index.html",
+    "static/media/Views.svg": "/static/media/Views.c1f267dfe2f07624647e9f4297b344c1.svg",
+    "static/media/website_traffic.svg": "/static/media/website_traffic.569d11effb451e6c4270c3f809f59cf9.svg",
+    "static/media/Premium.svg": "/static/media/Premium.f789243d4f0796a85552751671518561.svg",
+    "static/media/Store.svg": "/static/media/Store.925490f8f8d9a82aa82ada6d1606caa2.svg",
+    "main.e603d7d1.css.map": "/static/css/main.e603d7d1.css.map",
+    "main.6c4ac89d.js.map": "/static/js/main.6c4ac89d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e603d7d1.css",
+    "static/js/main.6c4ac89d.js"
+  ]
+}

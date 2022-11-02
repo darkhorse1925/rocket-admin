@@ -99,7 +99,7 @@ const SmallHeader = styled.p`
 	font-weight: bold;
 `
 
-const FirstStep = () => {
+const ThirdStep = () => {
 	return (
 		<div>
 			<Header />
@@ -139,5 +139,5 @@ const FirstStep = () => {
 		</div>
 	)
 }
-export default FirstStep
+export default ThirdStep 
 

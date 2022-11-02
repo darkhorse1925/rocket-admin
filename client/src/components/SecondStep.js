@@ -71,13 +71,14 @@ const ButtonWrapper = styled.div`
 	justify-content: flex-end;
 `
 
-const FirstStep = () => {
+const SecondStep = () => {
+	const URL = 'http://3.108.56.34:8080'
 
 	const [products, setProducts] = useState([])
 
 	useEffect(()=> {
 		async function fetchData() {
-			const res = await axios.get("http://localhost:5000/api/product")
+			const res = await axios.get(`${URL}/api/product`)
 			setProducts(res.data)
 			console.log(res.data)
 		}
@@ -116,6 +117,6 @@ const FirstStep = () => {
 		</div>
 	)
 }
-export default FirstStep
+export default SecondStep 
 
 

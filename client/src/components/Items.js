@@ -15,6 +15,7 @@ const Items = ({item:
 
 	const [toggle, setToggle] = useState(status === "Live now")
 	const [color, setColor] = useState(status)
+	const URL = 'http://3.108.56.34:8080'
 
 	function timestamp(date) {
 		const monthNames = 
@@ -38,7 +39,7 @@ const Items = ({item:
 
 	async function updateStatus(stat) {
 		 try {
-			 const res = await axios.put("http://localhost:5000/api/dashboard", {stat, _id})
+			 const res = await axios.put(`${URL}/api/dashboard`, {stat, _id})
 			 setColor(stat)
 			 console.log(res.data)
 		 } catch (err) {
